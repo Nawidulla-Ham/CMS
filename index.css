@@ -1,0 +1,106 @@
+.text-info {
+  margin-left: 200px;
+  padding-top: 10px;
+}
+/* #menu {
+  height: 100000000000000000px;
+} */
+#first {
+  height: 130px;
+  width: 300px;
+  background-color: cadetblue;
+  border-radius: 10px;
+  transition: all 3s;
+}
+#first:hover {
+  height: 130px;
+  width: 250px;
+  background-color: aqua;
+  border-radius: 10px;
+  transform: scale(1.3);
+}
+#for {
+  padding-left: 20px;
+  padding-top: 5px;
+}
+#admin {
+  padding-left: 20px;
+  padding-top: 5px;
+}
+#second {
+  height: 130px;
+  width: 300px;
+  background-color: yellowgreen;
+  border-radius: 10px;
+  transition: all 3s;
+}
+#second:hover {
+  height: 130px;
+  width: 250px;
+  background-color: blue;
+  border-radius: 10px;
+  transform: scale(1.3);
+}
+#third {
+  height: 130px;
+  width: 250px;
+  background-color: teal;
+  border-radius: 10px;
+  transition: all 3s;
+}
+#third:hover {
+  height: 130px;
+  width: 250px;
+  background-color: blue;
+  border-radius: 10px;
+  transform: scale(1.3);
+}
+#btn {
+  width: 300px;
+  height: 40px;
+  box-shadow: 2px 1px 3px lightgray;
+  border: 0;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-top: 13px;
+}
+.shadow {
+  border-radius: 10px;
+}
+.btn {
+  width: 200px;
+  margin-left: 300px;
+}
+#submit_form {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  float: left;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#text {
+  height: 30px;
+  width: 200px;
+  margin-top: 30px;
+}
+#submit {
+  height: 30px;
+  width: 70px;
+  background-color: blue;
+}
+#search {
+  float: right;
+  margin-top: -70px;
+}
+#search #searchone {
+  height: 30px;
+  width: 200px;
+}
+#btn {
+  height: 30px;
+  width: 100px;
+  background-color: cyan;
+}
